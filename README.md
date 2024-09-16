@@ -1,11 +1,9 @@
-![Demo Animation](https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif)
+![Demo Animation](https://i.pinimg.com/originals/2e/e8/8b/2ee88bf78e4f76001f59bad5e91a6a03.gif)
 
 <h1 align="center">Hi 👋, I'm Êban Ji-hon</h1>
 <h3 align="center">Learning Today, Innovating Tomorrow, Passionate About Programming | Student Engineer | Ready to Make a Difference</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebanjhon&label=Profile%20views&color=0e75b6&style=flat" alt="ebanjhon" /> </p>
-
-- 🔭 I’m currently working on [Social Media](https://github.com/Ebanjhon/Backend_Social_Media)
 
 - 🌱 I’m currently learning **Node.js,**
 
