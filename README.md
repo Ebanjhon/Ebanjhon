@@ -1,9 +1,9 @@
+![Demo Animation](https://i.pinimg.com/originals/a4/51/39/a451393c169a91586312551109361064.gif)
+
 <h1 align="center">Hi 👋, I'm Êban Ji-hon</h1>
 <h3 align="center">Learning Today, Innovating Tomorrow, Passionate About Programming | Student Engineer | Ready to Make a Difference</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebanjhon&label=Profile%20views&color=0e75b6&style=flat" alt="ebanjhon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebanjhon" alt="ebanjhon" /></a> </p>
 
 - 🔭 I’m currently working on [Social Media](https://github.com/Ebanjhon/Backend_Social_Media)
 
@@ -21,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebanjhon&show_icons=true&locale=en&layout=compact" alt="ebanjhon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebanjhon&show_icons=true&locale=en" alt="ebanjhon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebanjhon&" alt="ebanjhon" /></p>
